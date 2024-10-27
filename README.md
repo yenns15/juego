@@ -21,7 +21,7 @@ Este es un juego de PacMan desarrollado en Python utilizando la biblioteca Pygam
 
 1. Clona este repositorio:
    ```bash
-   git clone 
+   git clone https://github.com/yenns15/juego.git
    cd Juego-Pygame
    ```
 
